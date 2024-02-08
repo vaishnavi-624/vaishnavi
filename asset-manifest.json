@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/vaishnavi/static/css/main.f855e6bc.css",
+    "main.js": "/vaishnavi/static/js/main.f66c1cad.js",
+    "static/js/592.2f5c97d6.chunk.js": "/vaishnavi/static/js/592.2f5c97d6.chunk.js",
+    "index.html": "/vaishnavi/index.html",
+    "main.f855e6bc.css.map": "/vaishnavi/static/css/main.f855e6bc.css.map",
+    "main.f66c1cad.js.map": "/vaishnavi/static/js/main.f66c1cad.js.map",
+    "592.2f5c97d6.chunk.js.map": "/vaishnavi/static/js/592.2f5c97d6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.f66c1cad.js"
+  ]
+}
